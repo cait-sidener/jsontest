@@ -1,252 +1,307 @@
 {
   "sites": [
-    
-    { 
-      "projectNo": "3110", 
-      "dateAdded": "7/18/2019", 
+
+    {
+      "projectNo": "3110",
+      "dateAdded": "7/18/2019",
       "dateModified": "7/18/2019",
-      "addedBy": "jhobelman", 
-      "modifiedBy": "jhobelman", 
-      "countyNumber": 1, 
+      "addedBy": "jhobelman",
+      "modifiedBy": "jhobelman",
+      "countyNumber": 1,
       "bridgeSerial": 30
     },
-    { 
-      "projectNo": "K-0000-02", 
-      "dateAdded": "12/11/2012", 
-      "dateModified": "5/10/2016", 
-      "addedBy": "anderson", 
-      "modifiedBy": "anderson", 
-      "countyNumber": 1, 
+    {
+      "projectNo": "K-0000-02",
+      "dateAdded": "12/11/2012",
+      "dateModified": "5/10/2016",
+      "addedBy": "anderson",
+      "modifiedBy": "anderson",
+      "countyNumber": 1,
       "bridgeSerial": null
     },
-    { 
-      "projectNo": "k-5657-01", 
+    {
+      "projectNo": "k-5657-01",
       "dateAdded": "11/6/2012",
-      "dateModified": "11/6/2012", 
-      "addedBy": "anderson", 
-      "modifiedBy": "anderson", 
-      "countyNumber": 2, 
+      "dateModified": "11/6/2012",
+      "addedBy": "anderson",
+      "modifiedBy": "anderson",
+      "countyNumber": 2,
       "bridgeSerial": null
     },
-    { 
-      "projectNo": "Shannon1", 
-      "dateAdded": "12/11/2018", 
-      "dateModified": "12/11/2018", 
-      "addedBy": "shannon.hoffman", 
-      "modifiedBy": "shannon.hoffman", 
-      "countyNumber": 3, 
+    {
+      "projectNo": "Shannon1",
+      "dateAdded": "12/11/2018",
+      "dateModified": "12/11/2018",
+      "addedBy": "shannon.hoffman",
+      "modifiedBy": "shannon.hoffman",
+      "countyNumber": 3,
       "bridgeSerial": 1234
     },
-    { 
-      "projectNo": "Test 1", 
-      "dateAdded": "10/17/2012", 
-      "dateModified": "10/17/2016", 
-      "addedBy": "sheets", 
-      "modifiedBy": "sheets", 
-      "countyNumber": 3, 
+    {
+      "projectNo": "Test 1",
+      "dateAdded": "10/17/2012",
+      "dateModified": "10/17/2016",
+      "addedBy": "sheets",
+      "modifiedBy": "sheets",
+      "countyNumber": 3,
       "bridgeSerial": 1
-    },    { 
-      "projectNo": "KA-3891-01", 
-      "dateAdded": "10/7/2019", 
-      "dateModified": "10/17/2019", 
-      "addedBy": "August.Zuno", 
-      "modifiedBy": "August.Zuno", 
-      "countyNumber": 5, 
+    }, {
+      "projectNo": "KA-3891-01",
+      "dateAdded": "10/7/2019",
+      "dateModified": "10/17/2019",
+      "addedBy": "August.Zuno",
+      "modifiedBy": "August.Zuno",
+      "countyNumber": 5,
       "bridgeSerial": 25
-    },    { 
-      "projectNo": "281-5 KA-3891-01", 
-      "dateAdded": "2/26/2019", 
-      "dateModified": "2/26/2019", 
-      "addedBy": "jruby", 
-      "modifiedBy": "jruby", 
-      "countyNumber": 5, 
+    }, {
+      "projectNo": "281-5 KA-3891-01",
+      "dateAdded": "2/26/2019",
+      "dateModified": "2/26/2019",
+      "addedBy": "jruby",
+      "modifiedBy": "jruby",
+      "countyNumber": 5,
       "bridgeSerial": 25
-    },    { 
-      "projectNo": "39-6 KA-3912-01", 
-      "dateAdded": "4/2/2019", 
-      "dateModified": "4/3/2019", 
-      "addedBy": "bsgs.temp1", 
-      "modifiedBy": "bsgs.temp1", 
-      "countyNumber": 6, 
+    }, {
+      "projectNo": "39-6 KA-3912-01",
+      "dateAdded": "4/2/2019",
+      "dateModified": "4/3/2019",
+      "addedBy": "bsgs.temp1",
+      "modifiedBy": "bsgs.temp1",
+      "countyNumber": 6,
       "bridgeSerial": 48
-    },    { 
-      "projectNo": "KA-4798-03", 
-      "dateAdded": "7/8/2019", 
-      "dateModified": "7/11/2019", 
-      "addedBy": "jackie.soelter", 
-      "modifiedBy": "jackie.soelter", 
-      "countyNumber": 7, 
+    }, {
+      "projectNo": "KA-4798-03",
+      "dateAdded": "7/8/2019",
+      "dateModified": "7/11/2019",
+      "addedBy": "jackie.soelter",
+      "modifiedBy": "jackie.soelter",
+      "countyNumber": 7,
       "bridgeSerial": 516
-    },    { 
-      "projectNo": "KA-4798-03", 
-      "dateAdded": "7/11/2019", 
-      "dateModified": "7/15/2019", 
-      "addedBy": "jackie.soelter", 
-      "modifiedBy": "jackie.soelter", 
-      "countyNumber": 7, 
+    }, {
+      "projectNo": "KA-4798-03",
+      "dateAdded": "7/11/2019",
+      "dateModified": "7/15/2019",
+      "addedBy": "jackie.soelter",
+      "modifiedBy": "jackie.soelter",
+      "countyNumber": 7,
       "bridgeSerial": 517
-    },    { 
-      "projectNo": "4431", 
-      "dateAdded": "4/22/2019", 
-      "dateModified": "4/22/2019", 
-      "addedBy": "ahaase", 
-      "modifiedBy": "ahaase", 
-      "countyNumber": 9, 
+    }, {
+      "projectNo": "4431",
+      "dateAdded": "4/22/2019",
+      "dateModified": "4/22/2019",
+      "addedBy": "ahaase",
+      "modifiedBy": "ahaase",
+      "countyNumber": 9,
       "bridgeSerial": null
-    },    { 
-      "projectNo": "1", 
-      "dateAdded": "1/29/2019", 
-      "dateModified": null, 
-      "addedBy": "kellyca", 
-      "modifiedBy": null, 
-      "countyNumber": 9, 
+    }, {
+      "projectNo": "1",
+      "dateAdded": "1/29/2019",
+      "dateModified": null,
+      "addedBy": "kellyca",
+      "modifiedBy": null,
+      "countyNumber": 9,
       "bridgeSerial": 1
     }
   ],
-  
-  "intensities": [
-    { 
-      "ALLEN": [
-        {
-      "duration": 5, 
-      "yearOne": 4.77, 
+
+  "intensities": {
+    "ALLEN": [{
+        "duration": 5,
+        "yearOne": 4.77,
+        "yearTwo": 5.52,
+        "yearFive": 6.56,
+        "yearTen": 7.32,
+        "yearTwentyfive": 8.44,
+        "yearFifty": 9.32,
+        "yearHundred": 10.20
+      },
+      {
+        "duration": 6,
+        "yearOne": 4.53,
+        "yearTwo": 5.26,
+        "yearFive": 6.28,
+        "yearTen": 7.03,
+        "yearTwentyfive": 8.12,
+        "yearFifty": 8.98,
+        "yearHundred": 9.84
+      },
+      {
+        "duration": 7,
+        "yearOne": 4.33,
+        "yearTwo": 5.04,
+        "yearFive": 6.05,
+        "yearTen": 6.78,
+        "yearTwentyfive": 7.85,
+        "yearFifty": 8.69,
+        "yearHundred": 9.52
+      },
+      {
+        "duration": 8,
+        "yearOne": 4.15,
+        "yearTwo": 4.85,
+        "yearFive": 5.83,
+        "yearTen": 6.54,
+        "yearTwentyfive": 7.59,
+        "yearFifty": 8.41,
+        "yearHundred": 9.22
+      },
+      {
+        "duration": 9,
+        "yearOne": 3.99,
+        "yearTwo": 4.67,
+        "yearFive": 5.63,
+        "yearTen": 6.32,
+        "yearTwentyfive": 7.34,
+        "yearFifty": 8.14,
+        "yearHundred": 8.93
+      },
+      {
+        "duration": 10,
+        "yearOne": 3.84,
+        "yearTwo": 4.50,
+        "yearFive": 5.43,
+        "yearTen": 6.11,
+        "yearTwentyfive": 7.10,
+        "yearFifty": 7.87,
+        "yearHundred": 8.64
+      }
+    ],
+    "ANDERSON": [{
+      "duration": 5,
+      "yearOne": 4.77,
       "yearTwo": 5.52,
-      "yearFive": 6.56, 
-      "yearTen": 7.32, 
-      "yearTwentyfive": 8.44, 
+      "yearFive": 6.56,
+      "yearTen": 7.32,
+      "yearTwentyfive": 8.44,
       "yearFifty": 9.32,
       "yearHundred": 10.20
     },
-    { 
-      "duration": 6, 
-      "yearOne": 4.53, 
-      "yearTwo": 5.26, 
-      "yearFive": 6.28, 
-      "yearTen": 7.03, 
-      "yearTwentyfive": 8.12, 
-      "yearFifty": 8.98, 
-      "yearHundred": 9.84 
+    {
+      "duration": 6,
+      "yearOne": 4.53,
+      "yearTwo": 5.26,
+      "yearFive": 6.28,
+      "yearTen": 7.03,
+      "yearTwentyfive": 8.12,
+      "yearFifty": 8.98,
+      "yearHundred": 9.84
     },
-    { 
-      "duration": 7, 
-      "yearOne": 4.33, 
-      "yearTwo": 5.04, 
-      "yearFive": 6.05, 
-      "yearTen": 6.78, 
-      "yearTwentyfive": 7.85, 
-      "yearFifty": 8.69, 
-      "yearHundred": 9.52 
+    {
+      "duration": 7,
+      "yearOne": 4.33,
+      "yearTwo": 5.04,
+      "yearFive": 6.05,
+      "yearTen": 6.78,
+      "yearTwentyfive": 7.85,
+      "yearFifty": 8.69,
+      "yearHundred": 9.52
     },
-    { 
-      "duration": 8, 
-      "yearOne": 4.15, 
-      "yearTwo": 4.85, 
-      "yearFive": 5.83, 
-      "yearTen": 6.54, 
-      "yearTwentyfive": 7.59, 
-      "yearFifty": 8.41, 
-      "yearHundred": 9.22 
+    {
+      "duration": 8,
+      "yearOne": 4.15,
+      "yearTwo": 4.85,
+      "yearFive": 5.83,
+      "yearTen": 6.54,
+      "yearTwentyfive": 7.59,
+      "yearFifty": 8.41,
+      "yearHundred": 9.22
     },
-    { 
-      "duration": 9, 
-      "yearOne": 3.99, 
-      "yearTwo": 4.67, 
-      "yearFive": 5.63, 
-      "yearTen": 6.32, 
-      "yearTwentyfive": 7.34, 
-      "yearFifty": 8.14, 
-      "yearHundred": 8.93 
+    {
+      "duration": 9,
+      "yearOne": 3.99,
+      "yearTwo": 4.67,
+      "yearFive": 5.63,
+      "yearTen": 6.32,
+      "yearTwentyfive": 7.34,
+      "yearFifty": 8.14,
+      "yearHundred": 8.93
     },
-    { 
-      "duration": 10, 
-      "yearOne": 3.84, 
-      "yearTwo": 4.50, 
-      "yearFive": 5.43, 
-      "yearTen": 6.11, 
-      "yearTwentyfive": 7.10, 
-      "yearFifty": 7.87, 
-      "yearHundred": 8.64 
+    {
+      "duration": 10,
+      "yearOne": 3.84,
+      "yearTwo": 4.50,
+      "yearFive": 5.43,
+      "yearTen": 6.11,
+      "yearTwentyfive": 7.10,
+      "yearFifty": 7.87,
+      "yearHundred": 8.64
     }
   ]
-}
-  ],
+  },
 
-  "intensities13": [
-    { 
-      "ALLEN": [
-        {
-      "duration": 5, 
-      "yearOne": 4.97, 
-      "yearTwo": 5.74,
-      "yearFive": 7.02, 
-      "yearTen": 8.09, 
-      "yearTwentyfive": 9.59, 
-      "yearFifty": 10.76,
-      "yearHundred": 11.95,
-      "yearTwohundred": 13.17,
-      "yearFivehundred": 14.81
-    },
-    { 
-      "duration": 6, 
-      "yearOne": 4.59, 
-      "yearTwo": 5.31, 
-      "yearFive": 6.49, 
-      "yearTen": 7.48, 
-      "yearTwentyfive": 8.86, 
-      "yearFifty": 9.95, 
-      "yearHundred": 11.05,
-      "yearTwohundred": 12.17,
-      "yearFivehundred": 13.69
-    },
-    { 
-      "duration": 7, 
-      "yearOne": 4.29, 
-      "yearTwo": 4.96, 
-      "yearFive": 6.06, 
-      "yearTen": 6.99, 
-      "yearTwentyfive": 8.28, 
-      "yearFifty": 9.30, 
-      "yearHundred": 10.32,
-      "yearTwohundred": 11.38,
-      "yearFivehundred": 12.79
-    },
-    { 
-      "duration": 8, 
-      "yearOne": 4.04, 
-      "yearTwo": 4.67, 
-      "yearFive": 5.71, 
-      "yearTen": 6.58, 
-      "yearTwentyfive": 7.80, 
-      "yearFifty": 8.75, 
-      "yearHundred": 9.72,
-      "yearTwohundred": 10.71,
-      "yearFivehundred": 12.04
-    },
-    { 
-      "duration": 9, 
-      "yearOne": 3.83, 
-      "yearTwo": 4.42, 
-      "yearFive": 5.40, 
-      "yearTen": 6.23, 
-      "yearTwentyfive": 7.38, 
-      "yearFifty": 8.29, 
-      "yearHundred": 9.20,
-      "yearTwohundred": 10.14,
-      "yearFivehundred": 11.70 
-    },
-    { 
-      "duration": 10, 
-      "yearOne": 3.64, 
-      "yearTwo": 4.20, 
-      "yearFive": 5.14, 
-      "yearTen": 5.92, 
-      "yearTwentyfive": 7.02, 
-      "yearFifty": 7.88, 
-      "yearHundred": 8.75 ,
-      "yearTwohundred": 9.64,
-      "yearFivehundred": 10.84
-    }
-  ]
-}
-  ]
+  "intensities13": {
+    "ALLEN": [{
+        "duration": 5,
+        "yearOne": 4.97,
+        "yearTwo": 5.74,
+        "yearFive": 7.02,
+        "yearTen": 8.09,
+        "yearTwentyfive": 9.59,
+        "yearFifty": 10.76,
+        "yearHundred": 11.95,
+        "yearTwohundred": 13.17,
+        "yearFivehundred": 14.81
+      },
+      {
+        "duration": 6,
+        "yearOne": 4.59,
+        "yearTwo": 5.31,
+        "yearFive": 6.49,
+        "yearTen": 7.48,
+        "yearTwentyfive": 8.86,
+        "yearFifty": 9.95,
+        "yearHundred": 11.05,
+        "yearTwohundred": 12.17,
+        "yearFivehundred": 13.69
+      },
+      {
+        "duration": 7,
+        "yearOne": 4.29,
+        "yearTwo": 4.96,
+        "yearFive": 6.06,
+        "yearTen": 6.99,
+        "yearTwentyfive": 8.28,
+        "yearFifty": 9.30,
+        "yearHundred": 10.32,
+        "yearTwohundred": 11.38,
+        "yearFivehundred": 12.79
+      },
+      {
+        "duration": 8,
+        "yearOne": 4.04,
+        "yearTwo": 4.67,
+        "yearFive": 5.71,
+        "yearTen": 6.58,
+        "yearTwentyfive": 7.80,
+        "yearFifty": 8.75,
+        "yearHundred": 9.72,
+        "yearTwohundred": 10.71,
+        "yearFivehundred": 12.04
+      },
+      {
+        "duration": 9,
+        "yearOne": 3.83,
+        "yearTwo": 4.42,
+        "yearFive": 5.40,
+        "yearTen": 6.23,
+        "yearTwentyfive": 7.38,
+        "yearFifty": 8.29,
+        "yearHundred": 9.20,
+        "yearTwohundred": 10.14,
+        "yearFivehundred": 11.70
+      },
+      {
+        "duration": 10,
+        "yearOne": 3.64,
+        "yearTwo": 4.20,
+        "yearFive": 5.14,
+        "yearTen": 5.92,
+        "yearTwentyfive": 7.02,
+        "yearFifty": 7.88,
+        "yearHundred": 8.75,
+        "yearTwohundred": 9.64,
+        "yearFivehundred": 10.84
+      }
+    ]
+  }
 }
