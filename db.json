@@ -1,5 +1,6 @@
 {
   "sites": [
+    
     { 
       "projectNo": "3110", 
       "dateAdded": "7/18/2019", 
@@ -105,6 +106,8 @@
   
   "intensities": [
     { 
+      "ALLEN": [
+        {
       "duration": 5, 
       "yearOne": 4.77, 
       "yearTwo": 5.52,
@@ -164,9 +167,14 @@
       "yearFifty": 7.87, 
       "yearHundred": 8.64 
     }
+  ]
+}
   ],
+
   "intensities13": [
     { 
+      "ALLEN": [
+        {
       "duration": 5, 
       "yearOne": 4.97, 
       "yearTwo": 5.74,
@@ -238,5 +246,7 @@
       "yearTwohundred": 9.64,
       "yearFivehundred": 10.84
     }
+  ]
+}
   ]
 }
