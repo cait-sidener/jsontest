@@ -101,5 +101,68 @@
       "countyNumber": 9, 
       "bridgeSerial": 1
     }
+  ],
+  
+  "intensities": [
+    { 
+      "duration": 5, 
+      "yearOne": 4.77, 
+      "yearTwo": 5.52,
+      "yearFive": 6.56, 
+      "yearTen": 7.32, 
+      "yearTwentyfive": 8.44, 
+      "yearFifty": 9.32,
+      "yearHundred": 10.20
+    },
+    { 
+      "duration": 6, 
+      "yearOne": 4.53, 
+      "yearTwo": 5.26, 
+      "yearFive": 6.28, 
+      "yearTen": 7.03, 
+      "yearTwentyfive": 8.12, 
+      "yearFifty": 8.98, 
+      "yearHundred": 9.84 
+    },
+    { 
+      "duration": 7, 
+      "yearOne": 4.33, 
+      "yearTwo": 5.04, 
+      "yearFive": 6.05, 
+      "yearTen": 6.78, 
+      "yearTwentyfive": 7.85, 
+      "yearFifty": 8.69, 
+      "yearHundred": 9.52 
+    },
+    { 
+      "duration": 8, 
+      "yearOne": 4.15, 
+      "yearTwo": 4.85, 
+      "yearFive": 5.83, 
+      "yearTen": 6.54, 
+      "yearTwentyfive": 7.59, 
+      "yearFifty": 8.41, 
+      "yearHundred": 9.22 
+    },
+    { 
+      "duration": 9, 
+      "yearOne": 3.99, 
+      "yearTwo": 4.67, 
+      "yearFive": 5.63, 
+      "yearTen": 6.32, 
+      "yearTwentyfive": 7.34, 
+      "yearFifty": 8.14, 
+      "yearHundred": 8.93 
+    },
+    { 
+      "duration": 10, 
+      "yearOne": 3.84, 
+      "yearTwo": 4.50, 
+      "yearFive": 5.43, 
+      "yearTen": 6.11, 
+      "yearTwentyfive": 7.10, 
+      "yearFifty": 7.87, 
+      "yearHundred": 8.64 
+    }
   ]
 }
