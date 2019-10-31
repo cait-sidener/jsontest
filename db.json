@@ -226,6 +226,128 @@
         "yearFifty": 7.87,
         "yearHundred": 8.64
       }
+    ],
+    "ATCHISON": [{
+        "duration": 5,
+        "yearOne": 4.63,
+        "yearTwo": 5.40,
+        "yearFive": 6.48,
+        "yearTen": 7.26,
+        "yearTwentyfive": 8.41,
+        "yearFifty": 9.31,
+        "yearHundred": 10.20
+      },
+      {
+        "duration": 6,
+        "yearOne": 4.44,
+        "yearTwo": 5.19,
+        "yearFive": 6.23,
+        "yearTen": 6.99,
+        "yearTwentyfive": 8.10,
+        "yearFifty": 8.97,
+        "yearHundred": 9.84
+      },
+      {
+        "duration": 7,
+        "yearOne": 4.28,
+        "yearTwo": 5.00,
+        "yearFive": 6.02,
+        "yearTen": 6.76,
+        "yearTwentyfive": 7.84,
+        "yearFifty": 8.68,
+        "yearHundred": 9.52
+      },
+      {
+        "duration": 8,
+        "yearOne": 4.12,
+        "yearTwo": 4.83,
+        "yearFive": 5.82,
+        "yearTen": 6.53,
+        "yearTwentyfive": 7.58,
+        "yearFifty": 8.40,
+        "yearHundred": 9.22
+      },
+      {
+        "duration": 9,
+        "yearOne": 3.98,
+        "yearTwo": 4.66,
+        "yearFive": 5.62,
+        "yearTen": 6.32,
+        "yearTwentyfive": 7.34,
+        "yearFifty": 8.14,
+        "yearHundred": 8.93
+      },
+      {
+        "duration": 10,
+        "yearOne": 3.84,
+        "yearTwo": 4.50,
+        "yearFive": 5.43,
+        "yearTen": 6.11,
+        "yearTwentyfive": 7.10,
+        "yearFifty": 7.87,
+        "yearHundred": 8.64
+      }
+    ],
+    "BARBER": [{
+        "duration": 5,
+        "yearOne": 4.77,
+        "yearTwo": 5.52,
+        "yearFive": 6.56,
+        "yearTen": 7.32,
+        "yearTwentyfive": 8.44,
+        "yearFifty": 9.32,
+        "yearHundred": 10.20
+      },
+      {
+        "duration": 6,
+        "yearOne": 4.53,
+        "yearTwo": 5.26,
+        "yearFive": 6.28,
+        "yearTen": 7.03,
+        "yearTwentyfive": 8.12,
+        "yearFifty": 8.98,
+        "yearHundred": 9.84
+      },
+      {
+        "duration": 7,
+        "yearOne": 4.32,
+        "yearTwo": 5.04,
+        "yearFive": 6.04,
+        "yearTen": 6.77,
+        "yearTwentyfive": 7.84,
+        "yearFifty": 8.68,
+        "yearHundred": 9.52
+      },
+      {
+        "duration": 8,
+        "yearOne": 4.14,
+        "yearTwo": 4.84,
+        "yearFive": 5.83,
+        "yearTen": 6.54,
+        "yearTwentyfive": 7.59,
+        "yearFifty": 8.40,
+        "yearHundred": 9.22
+      },
+      {
+        "duration": 9,
+        "yearOne": 3.98,
+        "yearTwo": 4.67,
+        "yearFive": 5.63,
+        "yearTen": 6.32,
+        "yearTwentyfive": 7.34,
+        "yearFifty": 8.13,
+        "yearHundred": 8.93
+      },
+      {
+        "duration": 10,
+        "yearOne": 3.84,
+        "yearTwo": 4.50,
+        "yearFive": 5.43,
+        "yearTen": 6.11,
+        "yearTwentyfive": 7.10,
+        "yearFifty": 7.87,
+        "yearHundred": 8.64
+      }
     ]
   },
 
@@ -375,6 +497,152 @@
         "yearTwohundred": 9.62,
         "yearFivehundred": 10.79
       }
-    ]
+    ],
+    "ATCHISON": [{
+        "duration": 5,
+        "yearOne": 4.82,
+        "yearTwo": 5.67,
+        "yearFive": 7.10,
+        "yearTen": 8.32,
+        "yearTwentyfive": 10.03,
+        "yearFifty": 11.38,
+        "yearHundred": 12.77,
+        "yearTwohundred": 14.19,
+        "yearFivehundred": 16.13
+      },
+      {
+        "duration": 6,
+        "yearOne": 4.45,
+        "yearTwo": 5.24,
+        "yearFive": 6.57,
+        "yearTen": 7.69,
+        "yearTwentyfive": 9.27,
+        "yearFifty": 10.52,
+        "yearHundred": 11.80,
+        "yearTwohundred": 13.12,
+        "yearFivehundred": 14.91
+      },
+      {
+        "duration": 7,
+        "yearOne": 4.16,
+        "yearTwo": 4.90,
+        "yearFive": 6.14,
+        "yearTen": 7.18,
+        "yearTwentyfive": 8.66,
+        "yearFifty": 9.83,
+        "yearHundred": 11.02,
+        "yearTwohundred": 12.26,
+        "yearFivehundred": 13.93
+      },
+      {
+        "duration": 8,
+        "yearOne": 3.92,
+        "yearTwo": 4.61,
+        "yearFive": 5.78,
+        "yearTen": 6.77,
+        "yearTwentyfive": 8.16,
+        "yearFifty": 9.26,
+        "yearHundred": 10.38,
+        "yearTwohundred": 11.54,
+        "yearFivehundred": 13.12
+      },
+      {
+        "duration": 9,
+        "yearOne": 3.71,
+        "yearTwo": 4.37,
+        "yearFive": 5.47,
+        "yearTen": 6.41,
+        "yearTwentyfive": 7.72,
+        "yearFifty": 8.77,
+        "yearHundred": 9.83,
+        "yearTwohundred": 10.39,
+        "yearFivehundred": 11.81
+      },
+      {
+        "duration": 10,
+        "yearOne": 3.53,
+        "yearTwo": 4.15,
+        "yearFive": 5.20,
+        "yearTen": 6.09,
+        "yearTwentyfive": 7.34,
+        "yearFifty": 8.34,
+        "yearHundred": 9.35,
+        "yearTwohundred": 10.39,
+        "yearFivehundred": 11.81
+      }
+    ],
+    "BARBER": [{
+      "duration": 5,
+      "yearOne": 4.44,
+      "yearTwo": 5.29,
+      "yearFive": 6.66,
+      "yearTen": 7.77,
+      "yearTwentyfive": 9.28,
+      "yearFifty": 10.42,
+      "yearHundred": 11.53,
+      "yearTwohundred": 12.65,
+      "yearFivehundred": 14.09
+    },
+    {
+      "duration": 6,
+      "yearOne": 4.11,
+      "yearTwo": 4.89,
+      "yearFive": 6.15,
+      "yearTen": 7.18,
+      "yearTwentyfive": 8.57,
+      "yearFifty": 9.63,
+      "yearHundred": 10.66,
+      "yearTwohundred": 11.69,
+      "yearFivehundred": 13.02
+    },
+    {
+      "duration": 7,
+      "yearOne": 3.84,
+      "yearTwo": 4.57,
+      "yearFive": 5.75,
+      "yearTen": 6.71,
+      "yearTwentyfive": 8.01,
+      "yearFifty": 8.99,
+      "yearHundred": 9.96,
+      "yearTwohundred": 10.29,
+      "yearFivehundred": 11.46
+    },
+    {
+      "duration": 8,
+      "yearOne": 3.61,
+      "yearTwo": 4.30,
+      "yearFive": 5.41,
+      "yearTen": 6.32,
+      "yearTwentyfive": 7.54,
+      "yearFifty": 8.47,
+      "yearHundred": 9.38,
+      "yearTwohundred": 10.29,
+      "yearFivehundred": 11.46
+    },
+    {
+      "duration": 9,
+      "yearOne": 3.42,
+      "yearTwo": 4.08,
+      "yearFive": 5.13,
+      "yearTen": 5.98,
+      "yearTwentyfive": 7.14,
+      "yearFifty": 8.02,
+      "yearHundred": 8.88,
+      "yearTwohundred": 9.74,
+      "yearFivehundred": 10.85
+    },
+    {
+      "duration": 10,
+      "yearOne": 3.25,
+      "yearTwo": 3.87,
+      "yearFive": 4.87,
+      "yearTen": 5.69,
+      "yearTwentyfive": 6.79,
+      "yearFifty": 7.63,
+      "yearHundred": 8.44,
+      "yearTwohundred": 9.26,
+      "yearFivehundred": 10.32
+    }
+  ]
   }
 }
