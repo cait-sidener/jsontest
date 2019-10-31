@@ -1,7 +1,6 @@
 {
-  "sites": [
 
-    {
+  "sites": [{
       "projectNo": "3110",
       "dateAdded": "7/18/2019",
       "dateModified": "7/18/2019",
@@ -103,8 +102,7 @@
       "bridgeSerial": 1
     }
   ],
-
-  "intensities": {
+  "intensities": [{
     "ALLEN": [{
         "duration": 5,
         "yearOne": 4.77,
@@ -227,9 +225,9 @@
         "yearHundred": 8.64
       }
     ]
-  },
+  }],
 
-  "intensities13": {
+  "intensities13": [{
     "ALLEN": [{
         "duration": 5,
         "yearOne": 4.97,
@@ -376,5 +374,5 @@
         "yearFivehundred": 10.79
       }
     ]
-  }
+  }]
 }
